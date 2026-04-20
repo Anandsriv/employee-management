@@ -1,3 +1,4 @@
 ID | Name | Role
 1 | Rahul | Developer
 2 | Priya | Tester
+3 | Amit | Manager
